@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dasom2d/react-neflix/static/css/main.3ca263b4.css",
+    "main.js": "/Dasom2d/react-neflix/static/js/main.cad7e110.js",
+    "static/js/787.b99ecbe7.chunk.js": "/Dasom2d/react-neflix/static/js/787.b99ecbe7.chunk.js",
+    "index.html": "/Dasom2d/react-neflix/index.html",
+    "main.3ca263b4.css.map": "/Dasom2d/react-neflix/static/css/main.3ca263b4.css.map",
+    "main.cad7e110.js.map": "/Dasom2d/react-neflix/static/js/main.cad7e110.js.map",
+    "787.b99ecbe7.chunk.js.map": "/Dasom2d/react-neflix/static/js/787.b99ecbe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ca263b4.css",
+    "static/js/main.cad7e110.js"
+  ]
+}
